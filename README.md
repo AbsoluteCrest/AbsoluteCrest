@@ -1,23 +1,3 @@
-[## Hi there 👋
-
-<!--
-**AbsoluteCrest/AbsoluteCrest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-](https://github.com/AbsoluteCrest/AbsoluteCrest.git)<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
 ###
 
 <div align="center">
@@ -71,6 +51,15 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+<div align="center">
+  <a href="https://open.spotify.com/user/✪Crest✪">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%E2%9C%AACrest%E2%9C%AA&count=3" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
