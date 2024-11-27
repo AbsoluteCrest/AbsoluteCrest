@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm Crest from Poland 🇵🇱<br><br>- 🔭 I’m working on my portfolio<br>- 📚 I'm currently learning Next.js and C# <br>- ⚡ In my free time I read a book</p>
+<p align="left">I'm Crest from Poland 🇵🇱<br><br>- 🔭 I’m working on my portfolio<br>- 📚 I'm currently learning Next.js and C# <br>- ⚡ In my free time I play basketball or play games</p>
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<p align="left">Cześć, Piotrek z Warszawy! 👋<br>
+<p align="left">"Cześć, Piotrek z Warszawy! 👋<br>
 Wiem, że jesteś wielkim fanem Travisa Scotta – vibe'y Astroworld zawsze są z Tobą! 🎶🌌 <br>
 Nie martw się, jeśli Twoja strona chwilowo nie działa. Nawet najlepszym zdarzają się małe przestoje, a prawdziwi gracze zawsze wychodzą na prostą. 💪<br>
-Pamiętaj – każdy problem to tylko krok w drodze do sukcesu! Jak mówi Travis: "Who put this together? I'm the glue!" – i Ty też wszystko posklejasz. Powodzenia, Piotrek, trzymam kciuki! ✨</p>
+Pamiętaj – każdy problem to tylko krok w drodze do sukcesu! Jak mówi Travis: "Who put this together? I'm the glue!" – i Ty też wszystko posklejasz. Powodzenia, Piotrek, trzymam kciuki! ✨"</p>
